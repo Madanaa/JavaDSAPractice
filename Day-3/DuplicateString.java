@@ -3,7 +3,7 @@ package day_3;
 public class DuplicateString {
 
 
-		public static void main(String argu[]) {
+		public static void main(String arg[]) {
 		String str = "beautiful beach";
 		char[] carray = str.toCharArray();
 		System.out.println("The string is:" + str);
